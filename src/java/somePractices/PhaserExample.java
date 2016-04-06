@@ -1,3 +1,4 @@
+package somePractices;
 import java.util.concurrent.Phaser;
 
 public class PhaserExample

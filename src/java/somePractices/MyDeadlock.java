@@ -1,3 +1,4 @@
+package somePractices;
 public class MyDeadlock
 {
 

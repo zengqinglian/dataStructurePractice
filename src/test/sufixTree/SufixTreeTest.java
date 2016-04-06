@@ -1,4 +1,4 @@
-package dataStructurePractice;
+package sufixTree;
 
 import org.junit.Test;
 

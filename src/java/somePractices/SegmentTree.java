@@ -1,3 +1,4 @@
+package somePractices;
 public class SegmentTree
 {
     int st[]; // The array that stores segment tree nodes

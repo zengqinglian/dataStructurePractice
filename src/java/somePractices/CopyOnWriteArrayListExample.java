@@ -1,3 +1,4 @@
+package somePractices;
 import java.util.Iterator;
 import java.util.concurrent.CopyOnWriteArrayList;
 
