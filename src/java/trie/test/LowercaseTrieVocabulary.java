@@ -1,4 +1,4 @@
-package eric.zeng.trie.test;
+package java.trie.test;
 
 import java.util.Collection;
 
