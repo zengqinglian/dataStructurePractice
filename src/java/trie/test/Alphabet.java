@@ -1,4 +1,4 @@
-package eric.zeng.trie.test;
+package trie.test
 
 public abstract class Alphabet
 {

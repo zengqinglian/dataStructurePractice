@@ -1,4 +1,4 @@
-package eric.zeng.trie.test;
+package java.trie.test;
 
 public interface Vocabulary
 {
